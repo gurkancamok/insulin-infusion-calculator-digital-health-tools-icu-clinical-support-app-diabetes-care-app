@@ -2,6 +2,9 @@
 
 Clinical decision support tools developed for scalable digital health solutions.
 
+🔗 **Live Demo:**  
+https://gurkancamok.github.io/insulin-infusion-calculator-digital-health-tools-icu-clinical-support-app-diabetes-care-app/
+
 ## Overview
 This project is a web-based clinical decision support application designed to assist healthcare professionals in insulin infusion dose calculation and protocol-based management.
 
