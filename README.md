@@ -137,7 +137,7 @@ It reflects **independent development of functional clinical technologies**, not
 
 ## 📄 Intended Use
 
-AEGIS is designed to support structured clinical decision-making processes.
+This aplication is designed to support structured clinical decision-making processes.
 
 Final clinical judgment remains the responsibility of qualified healthcare professionals.
 
