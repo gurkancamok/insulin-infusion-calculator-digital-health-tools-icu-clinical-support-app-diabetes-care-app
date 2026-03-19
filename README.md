@@ -4,7 +4,7 @@
 ![Digital Health](https://img.shields.io/badge/Domain-Digital%20Health-blue)
 ![Clinical AI](https://img.shields.io/badge/Type-Clinical%20Decision%20Support-green)
 ![Innovation](https://img.shields.io/badge/Focus-Clinical%20Innovation-purple)
-![Status](https://img.shields.io/badge/Status-Prototype-orange)
+![Status](https://img.shields.io/badge/Status-Live%20Application-success)
 ![Platform](https://img.shields.io/badge/Platform-Web%20Application-lightgrey)
 
 ---
