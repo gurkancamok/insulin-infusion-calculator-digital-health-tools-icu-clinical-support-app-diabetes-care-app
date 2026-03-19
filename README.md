@@ -1,5 +1,5 @@
 # 🧠 Insulin Infusion Calculator  
-### *Clinical Decision Support System for ICU & Digital Health Integration*
+### *Hospital-Wide Clinical Decision Support System for Digital Health Integration*
 
 ![Digital Health](https://img.shields.io/badge/Domain-Digital%20Health-blue)
 ![Clinical AI](https://img.shields.io/badge/Type-Clinical%20Decision%20Support-green)
