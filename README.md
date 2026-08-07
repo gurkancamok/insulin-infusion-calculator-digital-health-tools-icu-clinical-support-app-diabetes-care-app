@@ -20,8 +20,6 @@ The system evaluates blood glucose values, previous glucose measurements, measur
 
 Rather than requiring the user to manually navigate multiple decision tables, calculate hourly glucose changes, identify the appropriate Δ / 2Δ adjustment range, and determine the resulting infusion action, the application executes these steps through a deterministic rule-based decision process.
 
-The underlying clinical logic is based on the **S-009-03 Insulin Infusion Protocol**.
-
 ---
 
 ## Clinical Workflow
